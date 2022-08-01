@@ -1,0 +1,152 @@
+.inp {
+  width: 750px;
+  height: 60px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 100px;
+  box-sizing: border-box;
+  margin-top: 55px;
+}
+.create {
+  width: 500px !important;
+  margin-left: 200px;
+}
+.btn {
+  width: 250px !important;
+}
+.navbar {
+  /* background-color: grey; */
+  /* background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1)); */
+  height: 80px;
+  background-color: #3CAEA3;
+  margin-top: -122px;
+
+  align-items: center;
+}
+.main {
+  margin-left: 5%;
+  margin-right: 10%;
+}
+.btn1 {
+  width: 250px;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 38px 0;
+  border: none;
+  border-radius: 4px;
+  height: 80px;
+  border: black;
+  border-radius: 10px;
+  margin-left: 260px;
+  font-size: 30px;
+}
+body {
+  font-family: "PT Serif", sans-serif;
+  margin: 0px;
+  color: #2c3e50;
+  background-color: #ecf0f1;
+  font-size: 1.1em;
+}
+button {
+  cursor: pointer;
+  border: none;
+  border-radius: 3px;
+  font-family: "PT Serif", sans-serif;
+  color: #ecf0f1;
+  background-color: #e74c3c;
+}
+.nav {
+  color: black;
+  margin: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: flex;
+  align-items: center;
+  font-family: "Francois One";
+  float: right;
+  font-weight: bold;
+  
+}
+
+table, th, td {
+  border: 1px solid;
+}
+body{
+  background-image: url(https://previews.123rf.com/images/karandaev/karandaev1606/karandaev160600162/58179421-office-desk-with-headset-and-pc-call-center-support-table-top-veiw-with-copy-space.jpg);
+  /* https://wallpaperaccess.com/full/5686371.jpg
+  background-size: cover; */
+  background-attachment: fixed;
+  font-family: new time roman;
+  /* background-repeat: no-repeat; */
+}
+.t1{
+  color:#2c3e50;;
+  text-align: center;
+  margin-left: 350px;
+  display: inline-block;
+  margin-top: 37px;
+  font-size: 40px;
+}
+.select{
+  margin-right: 250px;
+  /* padding-right: 70px; */
+  height: 30px;
+  text-align: left;
+  margin-left: 30px;
+}
+#radio{
+ 
+  font-size: 32px;
+}
+.h3{
+  margin-right: 20px;
+}
+.label{
+
+font-size: 30px;
+}
+.table{
+  margin-top: 50px; 
+}
+.cnt{
+  padding-left: 240px; 
+  margin-top: 220px;
+  color: black;
+}
+h2{
+  margin-left: 350px;
+  margin-top: 750px;
+}
+.login{
+  margin-top: 175px;
+  font-size: 50px;
+}
+#nom{
+  font-size: 30px;
+}
+#left1{
+  margin-right: 300px;
+}
+.td{
+  background-color:green;
+} */
+ #type{
+background-color: aqua;
+} 
+.logo{
+  width: 150px;
+  
+}
+.interested{
+  background-color: yellow;
+}
+.validated{
+  background-color: green;
+}
+.bloqued{
+  background-color: red;
+}
+
